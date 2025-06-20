@@ -1,1 +1,1 @@
-# Project-Management-Dashboards
+This folder contains project management templates, reports, and documentation developed through coursework and hands-on project experience. Files include stakeholder analysis, RACI charts, communication plans, risk registers, meeting agendas, and project status reports. These documents demonstrate project planning, coordination, and delivery knowledge using industry-standard formats and tools.
